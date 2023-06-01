@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='65.109.26.202';
+USER='nazmulvip_nazmul';
+PASS='nazmulvip_nazmul';
+DBNAME='nazmulvip_nazmul';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
